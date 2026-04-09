@@ -128,3 +128,6 @@ cat ~/ai-fomo-pipeline/weekly-log.md
 
 <img width="1440" height="2094" alt="image" src="https://github.com/user-attachments/assets/ed8b48f8-4475-4f8c-bbde-ecd0d46ed10b" />
 
+<img width="1440" height="1930" alt="image" src="https://github.com/user-attachments/assets/3cd53954-42e4-4420-b681-6bfa5a98dd31" />
+
+
