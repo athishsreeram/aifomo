@@ -124,3 +124,7 @@ cat ~/ai-fomo-pipeline/weekly-log.md
 | SKILL_2_triage.md | inbox.md | triage.md | ~5 min |
 | SKILL_3_spike.md | triage.md top pick | spike-[slug].html + log | 90 min |
 | SKILL_4_publish.md | spike-log.md | post-draft.md + weekly-log.md | ~5 min |
+
+
+<img width="1440" height="2094" alt="image" src="https://github.com/user-attachments/assets/ed8b48f8-4475-4f8c-bbde-ecd0d46ed10b" />
+
